@@ -17,7 +17,7 @@ def home():
 
     output = """
     <h2>Online Student Course Registration System</h2>
-
+<p>Welcome! Register for your favourite course.</p>
     <form method="POST">
 
         Student Name:
